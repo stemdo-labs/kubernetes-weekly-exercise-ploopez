@@ -30,5 +30,7 @@
     Podemos saber cuanto asignarle a cada namespace
 
 13. Creamos los ficheros de limites tanto para un namespace como para el otro
-
+    Y al comprobarlo 
+    ![alt text](image-3.png)
+    podemos ver el maximo permitido (a cada namespace)
 
