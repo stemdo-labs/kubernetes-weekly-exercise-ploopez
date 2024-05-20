@@ -1,6 +1,5 @@
 1. Crear un Namespace
-
-Primero, creamos un namespace llamado "laravel".
+   Primero, creamos un namespace llamado "laravel".
 
 2. Crear un Deployment para Laravel
 
@@ -14,19 +13,22 @@ Primero, creamos un namespace llamado "laravel".
 
 ![alt text](image.png)
 
-
+----
 7. Crear el nuevo namespace phpmyadmin
 
-8. Crea el deployment 
+8. Crea el deployment de phpmyadmin
 
-9. Crear el service 
+9. Crear el service de phpmyadmin
 
-10. Crear el secrets
+10. Crear el secrets de phpmyadmin
 
 11. Lanzarlo :
     ![alt text](image-1.png)
 
 12. Viendo las capacidades del pc :
-![alt text](image-2.png)
+    ![alt text](image-2.png)
+    Podemos saber cuanto asignarle a cada namespace
 
-Podemos saber cuanto asignarle a cada namespace
+13. Creamos los ficheros de limites tanto para un namespace como para el otro
+
+
